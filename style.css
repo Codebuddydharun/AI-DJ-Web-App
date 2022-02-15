@@ -1,0 +1,46 @@
+.header{
+    margin: 0px;
+    font-size: 25px;
+    width: 100%;
+    box-shadow: grey;
+}
+
+.note{
+    color: black;
+    font-size: 15px;
+}
+
+body{
+    background-size: cover;
+}
+
+.div_speed{
+    float: left;
+    font-size: 15px;
+}
+
+.div_volume{
+    float: right;
+    font-size: 15px;
+}
+
+.disk_img{
+    width: 200px;
+    border-radius: 100px;
+
+}
+
+.footer{
+    box-shadow: grey;
+    background-color: grey;
+    width: 100%;
+    line-height: 3;
+    bottom: 0;
+    position: fixed;
+    color: orange;
+}
+
+canvas{
+    border: solid;
+    border-radius: 20px;
+}
